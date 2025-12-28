@@ -1,63 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,25&height=230&section=header&text=ASLAM&YASIN&fontSize=88&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,25&height=220&section=header&text=Yasin%20Aslam&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+AUTOMATION+BUILDER;LINUX+%7C+TERMUX+POWER+USER;TURNING+IDEAS+INTO+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Practical+Systems%2C+Not+Demos" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinaslamog&show_icons=true&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinaslamog&layout=compact&hide_border=true&theme=transparent" width="38%" />
 </div>
 
 ---
 
-### ⚡ Core Stack
+### ⚡ Focus
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,firebase,js&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,html,css,vscode&perline=4" />
+  🌐 Web (Frontend & Backend) · 🧠 System Design · ⚙️ Automation
 </p>
 
 ---
 
-### 🧠 Focus Areas
+### 🧩 Core Stack
 <p align="center">
-  <b>AI Prompt Engineering</b> · <b>Automation & CLI Tools</b> · <b>Linux / Termux</b> · <b>System Thinking</b>
+  <img src="https://skillicons.dev/icons?i=react,python,linux,firebase,supabase,html,css,js&perline=8" />
 </p>
 
 ---
 
-### 🧰 What I Build
+<!--
+### 🔳 Featured Projects (Enable When Ready)
+
 <p align="center">
-  ⚙️ All-in-one CLI tools  
-  🤖 AI-powered workflows  
-  📱 Mobile-first dev (low-resource optimized)  
+  <a href="PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinaslamog&repo=REPO_NAME&theme=transparent&hide_border=true" />
+  </a>
 </p>
+-->
 
 ---
 
 ### 📊 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinaslamog&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/yasinaslamog">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:yasinaslamog@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 </div>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,2,25&height=30&section=footer" width="100%" />
+  <b>Build &gt; Talk</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,2,25&height=28&section=footer" width="100%" />
 </p>

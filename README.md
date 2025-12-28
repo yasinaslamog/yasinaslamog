@@ -1,62 +1,90 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,25&height=250&section=header&text=[YOUR%20NAME]&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Yasin 👋</h1>
+<h3 align="center">Builder • Problem Solver • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=ARCHITECTING+THE+FUTURE;FULL-STACK+ENGINEER;OPEN+SOURCE+VISIONARY" alt="Typing SVG" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USER]&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USER]&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="38%" />
-</div>
-
----
-
-### ⚡ Power Core (Specializations)
-<p align="center">
-<table border="0">
-  <tr align="center">
-    <td><b>Frontend Mastery</b></td>
-    <td><b>Backend Architecture</b></td>
-    <td><b>DevOps & Cloud</b></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,graphql" /></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" /></td>
-  </tr>
-</table>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🏗️ Featured Innovation
+## 👨‍💻 About Me
+
+I’m a **self-driven learner and builder** who enjoys turning ideas into real, working systems.  
+I focus on **clean logic, practical automation, and modern tooling**, often working within **limited environments** and making the most out of them.
+
+- 🔍 Curious by nature, analytical by habit  
+- 🧠 Strong interest in **AI, automation, and system-level tools**  
+- 🛠 Love building tools that actually solve problems  
+- 🌱 Always learning, always iterating  
+
+---
+
+## 🧠 What I’m Good At
+
+### 💻 Technical Skills
+- **Languages:** Python, Bash, JavaScript (basic–intermediate)
+- **Systems:** Linux, Termux, CLI-based workflows
+- **Automation:** Cron jobs, scripting, task pipelines
+- **AI & Tools:** Prompt engineering, AI-assisted development
+- **Web Basics:** HTML, CSS, frontend logic
+- **Databases & Backend:** Firebase (basics)
+
+### ⚙️ Practical Strengths
+- Working efficiently with **limited hardware**
+- Building **end-to-end solutions**, not just demos
+- Debugging & reverse-thinking problems
+- Fast learner with strong self-research ability
+
+---
+
+## 🚀 Projects & Interests
+
+> I prefer **useful projects** over flashy ones.
+
+- 🧰 **All-in-One CLI Tools** – automation, utilities, productivity scripts  
+- 🤖 **AI-Powered Systems** – prompt engineering & smart workflows  
+- 📱 **Mobile-first Development** – optimized for real-world constraints  
+- 📊 **Data & Productivity Tools** – habit tracking, analytics, dashboards  
+
+👉 *Check my repositories to see how I think and build.*
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://images.unsplash.com/photo-1614850523296-d8c1af93d400?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" width="100%" style="border-radius:10px;" />
-  </a>
-  <br>
-  <b>Project Nexus:</b> <i>A high-performance neural dashboard optimizing data flow by 60%.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="160"/>
 </p>
 
 ---
 
-### 🧬 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USER]&theme=github-compact&bg_color=0D1117&hide_border=true&color=58A6FF" width="100%" />
-</p>
+## 🎯 Mindset
+
+- Build > Talk  
+- Learn deeply, not superficially  
+- Constraints create better engineers  
+- Clarity beats complexity  
 
 ---
 
-<div align="center">
-  <a href="https://linkedin.com/in/[YOUR-USER]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[YOUR-PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</div>
+## 🤝 Open To
+
+- 🌱 Learning opportunities  
+- 🤝 Collaboration on meaningful projects  
+- 💼 Internships / junior roles / mentorship  
+- 🧠 Technical discussions & idea exchange  
+
+---
+
+## 📫 Connect With Me
+
+- 💬 Open to conversations and collaboration  
+- 🌍 GitHub: **@YOUR_USERNAME**
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,2,25&height=30&section=footer" width="100%" />
+  <i>“Consistency beats talent when talent doesn’t stay consistent.”</i>
 </p>

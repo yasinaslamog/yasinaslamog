@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,25&height=230&section=header&text=YASIN&fontSize=88&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,25&height=230&section=header&text=ASLAM YASIN&fontSize=88&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">

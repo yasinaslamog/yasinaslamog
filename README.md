@@ -1,108 +1,155 @@
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   Y A S I N   A S L A M  ·  NEON TERMINAL EDITION            -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ══════════ HERO ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E34C26,50:DA5B0B,100:F7DF1E&height=280&section=header&text=YASIN%20ASLAM&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=15%20yo%20builder%20%7C%20Chittagong%2C%20Bangladesh%20%7C%20systems%20over%20demos&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,33:7928ca,66:00d4ff,100:00ff9d&height=6&section=header"/>
 
-<a href="https://github.com/yasinaslamog">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F57D&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=%3E+init+building_practical_systems..._%3B%3E+4+years+of+%24_code+%7C+shipping+not+talking" alt="typing" />
+<br/>
+
+<!-- GLITCH TITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&pause=99999&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Y%E1%80%8ASIN+%E1%80%A0SLAM" alt="YASIN ASLAM"/>
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF00E5&background=00000000&center=true&vCenter=true&width=850&lines=%3E+booting+profile.exe+..._%3B+%3E+access_granted+%E2%94%80+welcome%2C+traveler.%3B+%3E+15yo+%7C+4yrs+of+code+%7C+Chittagong%2C+BD+%F0%9F%87%A7%F0%9F%87%A9%3B+%3E+mission%3A+practical+systems%2C+not+demos." alt="Typing SVG"/>
 </a>
 
-<!-- ══════════ BADGE WALL ══════════ -->
-[![Profile views](https://komarev.com/ghpvc/?username=yasinaslamog&color=brightgreen&style=for-the-badge&label=VIEWS)](https://github.com/yasinaslamog)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasinaslamog)
-[![Age](https://img.shields.io/badge/%F0%9F%94%A5_15_yo_builder-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://github.com/yasinaslamog)
-[![Status](https://img.shields.io/badge/status-ONLINE-success?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/yasinaslamog)
+<br/>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=surround&color=0:ff0080,50:00d4ff,100:00ff9d&height=120&section=header&text=&fontSize=0" style="visibility:hidden"/>
+
+<!-- BADGE MATRIX -->
+<a href="https://github.com/yasinaslamog?tab=followers"><img src="https://img.shields.io/github/followers/yasinaslamog?logo=github&style=plastic&color=00ff9d&labelColor=0a0a12"/></a>
+<img src="https://img.shields.io/badge/stars-%E2%98%85_earned-ff00e5?style=plastic&labelColor=0a0a12"/>
+<img src="https://komarev.com/ghpvc/?username=yasinaslamog&style=plastic&color=00d4ff&labelColor=0a0a12&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/status-BUILDING-00ff9d?style=plastic&labelColor=0a0a12&logo=hackthebox"/>
+<img src="https://img.shields.io/badge/uptime-4_YRS-ffd700?style=plastic&labelColor=0a0a12"/>
 
 </div>
 
 ---
 
-## ⚡ whoami
+## ⚡ `sudo whoami`
 
-```bash
-$ cat /etc/yasin.profile
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```diff
+@@ CLASSIFIED :: OPERATOR PROFILE @@
 ```
 
-```yaml
-name:        Yasin Aslam
-age:         15
-location:    Chittagong, Bangladesh 🇧🇩
-experience:  4 years of shipping code
-philosophy:  "Building practical systems, not demos"
-current_focus: [frontend, backend, system design, automation]
-learning:    always
-coffee:      undefined  # too young, runs on curiosity instead ☕→⚡
+```json
+{
+  "handle":      "yasinaslamog",
+  "age":         15,
+  "base":        "Chittagong, Bangladesh 🇧🇩",
+  "exp":         "4 years shipping real code",
+  "doctrine":    ["practical > pretty demos",
+                  "systems that survive contact with users",
+                  "automate everything twice"],
+  "domains":     ["frontend", "backend", "system design", "automation"],
+  "stack":       ["react", "python", "linux",
+                  "firebase", "supabase"],
+  "status": {
+    "sleep":     null,
+    "curiosity": "∞"
+  }
+}
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48eb-9244-034ce76d3e8c.gif" width="500" alt="coding gif"/>
-</div>
-
----
-
-## 🧰 The Arsenal
+</td>
+<td valign="top" width="40%">
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🎴 Operator Card
 
-### Backend & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-</div>
-
----
-
-## 📊 Stats That Don't Lie
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasinaslamog&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00F57D&icon_color=00F57D&text_color=c9d1d9&ring_color=00F57D" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinaslamog&layout=compact&hide_border=false&bg_color=0d1117&title_color=00F57D&text_color=c9d1d9&langs_count=10" height="165"/>
-</div>
+<img src="https://cardivo.vercel.app/api?name=Yasin%20Aslam&description=Systems%20Builder%20%F0%9F%94%A5&username=yasinaslamog&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251837050&backgroundColor=%230a0a12&accentColor=%2300ff9d&pattern=grid&fontColor=%23ffffff&instagram=yasinaslamog&v=3" alt="operator card" width="100%"/>
 
 <br/>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=yasinaslamog&hide_border=false&background=0d1117&ring=00F57D&fire=F97316&currStreakLabel=00F57D&sideLabels=c9d1d9&dates=8b949e" height="165"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote"/>
+
 </div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 The Arsenal
+
+<div align="center">
+
+<img height="150" src="https://skillicons.dev/icons?i=react,js,python,firebase,supabase,html,css,git&theme=dark"/>
+
+<img height="150" src="https://skillicons.dev/icons?i=linux,bash,nodejs,tailwind,vscode,vercel,netlify,postgres&theme=dark"/>
+
+</div>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasinaslamog&show_icons=true&bg_color=0a0a12&title_color=00ff9d&icon_color=ff00e5&text_color=c9d1d9&ring_color=00ff9d&hide_border=false&border_radius=12&border_color=00ff9d44"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinaslamog&layout=compact&bg_color=0a0a12&title_color=00d4ff&text_color=c9d1d9&langs_count=10&border_radius=12&border_color=00d4ff44"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=yasinaslamog&background=0a0a12&border=00ff9d44&border_radius=12&ring=ff00e5&fire=ff6b35&currStreakNum=ffffff&sideNums=00ff9d&currStreakLabel=ff00e5&sideLabels=00d4ff&dates=555f6e" alt="streak"/>
+
+<br/><br/>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<img src="https://raw.githubusercontent.com/yasinaslamog/yasinaslamog/output/github-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/yasinaslamog/yasinaslamog/output/github-snake-dark.svg" alt="snake dark" width="100%"/>
 
 <br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yasinaslamog&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" width="100%" alt="trophies"/>
+<!-- ACTIVITY WAVEFORM -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinaslamog&bg_color=0a0a12&color=00ff9d&line=ff00e5&point=00d4ff&area=true&area_color=ff00e522&hide_border=true&custom_title=%E2%9A%A1%20COMMIT%20WAVEFORM%20%E2%9A%A1" width="100%"/>
+
+<br/><br/>
+
+<!-- TROPHY CABINET -->
+<img src="https://github-profile-trophy.vercel.app/?username=yasinaslamog&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinaslamog&bg_color=0d1117&color=00F57D&line=00F57D&point=ffffff&area=true&area_color=00F57D33&hide_border=true&custom_title=Commit%20Pulse%20%E2%9A%A1" width="100%" alt="activity graph"/>
-</div>
-
----
-
-## 🎯 Focus Mode
+## 🧭 Operating Modes
 
 <div align="center">
 
-| | | |
+| ![globe](https://img.shields.io/badge/%F0%9F%8C%90-WEB_ENGINEERING-ff0080?style=flat-square) | ![brain](https://img.shields.io/badge/%F0%9F%A7%A0-SYSTEM_DESIGN-00d4ff?style=flat-square) | ![gear](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-AUTOMATION-00ff9d?style=flat-square) |
 |:---:|:---:|:---:|
-| 🌐 **Web** | 🧠 **System Design** | ⚙️ **Automation** |
-| *frontend + backend* | *architecture that scales* | *kill the busywork* |
+| *pixel-perfect frontends* | *architecture before code* | *robots doing robot work* |
 
 </div>
+
+---
+
+## 🐍 Snake Feeds Daily *(auto-updated by GitHub Actions)*
+
+> The snake eats my contributions every 24h — check back tomorrow for more pixels.
 
 ---
 
@@ -110,9 +157,16 @@ coffee:      undefined  # too young, runs on curiosity instead ☕→⚡
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/%F0%9F%93%A1_GitHub-yasinaslamog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasinaslamog)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/%2F_yasinaslamog-181717?style=for-the-badge&logo=github&logoColor=00ff9d)](https://github.com/yasinaslamog)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F7DF1E,50:DA5B0B,100:E34C26&height=140&section=footer&text=stay+curious.&fontSize=40&fontColor=ffffff&animation=blinking" width="100%"/>
+<br/>
+
+*"Stay curious. Ship systems."* — `~/$`
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9d,33:00d4ff,66:7928ca,100:ff0080&height=6&section=footer"/>
 
 </div>
+
+<!-- ═════════════════ END OF TRANSMISSION ═════════════════ -->
